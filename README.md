@@ -4,3 +4,5 @@
 
 - Arroz
 - Feijão
+- massa
+- queijo
